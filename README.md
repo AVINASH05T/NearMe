@@ -1,6 +1,7 @@
 # Ex04 Places Around Me
-## Date: 
-
+## DATE: 28.03.2024
+## NAME: AVINASH T
+## REG NO: 212223230026
 ## AIM
 To develop a website to display details about the places around my house.
 
