@@ -125,9 +125,130 @@ Cumbum town is located in the Theni District of Tamil Nadu, near Kerala State, I
         </html>>
 ```
 ```c
+HOTEL.html
+
+<html>
+    <head>
+        <title>HOTEL</title>
+    </head>
+    <body bgcolor="pink">
+        <h1 align="center">
+            <font face="algerian" color="BLACK"><b>LEMURIAN HERITAGE</b></font>
+        </h1>
+        <h3 align="center">
+            <font face="algerian" color="blue"><b>PLACE OF PEACE</b></font>
+        </h3>
+        <hr size="3" color="red">
+        <p align="justify">
+            <font face="Georgia" sixe="5">
+            <br>Hotel Lemurian Heritage in Cumbum, Tamil Nadu, India, is a charming retreat that offers a blend of comfort, culture, and natural beauty. Let’s explore what this heritage hotel has to offer:</br>
+
+            <br>Location and Ambience:</br>
+            Hotel Lemurian Heritage is situated at 145, Kumily Road, Cumbum, 625516.
+            The hotel boasts a serene and picturesque setting, surrounded by lush greenery and rolling hills.
+            <br>Accommodations:</br>
+            The rooms are well-appointed and comfortable, providing a peaceful escape for guests.
+            Some rooms feature blackout curtains, soundproofing, air conditioning, and coffee/tea makers.
+            <br>Amenities:</br>
+            Swimming Pool: Guests can take a refreshing dip in the hotel’s swimming pool.
+            Free High-Speed Internet: Stay connected during your visit.
+            <br>Coffee Shop: Enjoy a cup of coffee or tea in a cozy setting.</br>
+            <br>Fishing: For those who love angling, the hotel offers fishing facilities.</br>
+            <br>Airport Transportation: Convenient options for travelers arriving by air.</br>
+            <br>Meeting Rooms: Ideal for business meetings or events.</br>
+            <br>24-Hour Security: Ensures a safe and secure stay.</br>
+            <br>Nearby Attractions:</br>
+            <br>Suruli Falls: Approximately 7.8 km away, this scenic waterfall is a must-visit.</br>
+            <br>MSR Grapes Garden: Explore this beautiful vineyard just 2.8 km from the hotel.</br>
+            <br>Kodi Lingam Temple: A religious site located 6.4 km away.</br>
+            <br>Guest Reviews:</br>
+            Visitors have praised the hotel’s appearance, cleanliness, and friendly staff.
+            Families appreciate the swimming pool, and overall, it’s considered a good place to stay.
+            
+            <br>Whether you’re seeking relaxation, cultural exploration, or a nature retreat, Hotel Lemurian Heritage offers a delightful experience in the heart of Cumbum. 🌿🏨</br>
+
+            </font>
+        </p>
+        </body>
+        </html>>
+```
+```c
+CINEMAS.html
+
+<html>
+    <head>
+        <title>CINEMAS</title>
+    </head>
+    <body bgcolor="ORANGE">
+        <h1 align="center">
+            <font face="algerian" color="BLACK"><b>DEVABALA&SHAKTHIBALA</b></font>
+        </h1>
+        <h3 align="center">
+            <font face="algerian" color="blue"><b>WORLD OF CINEMAS</b></font>
+        </h3>
+        <hr size="3" color="red">
+        <p align="justify">
+            <font face="Georgia" sixe="5">
+                In Cumbum, there are two notable cinemas: Deva Bala Sakthi Bala Cinemas and Thambis Theatre A/C Dolby Atmos. Let’s take a closer look at each of them:
+
+                <br>Deva Bala Sakthi Bala Cinemas A/C Dolby Atmos:</br>
+                <br>Location: No. 2 Mani Nagaram, Cumbum, Tamil Nadu 625516, India.</br>
+                <br>Features: This cinema offers the latest movie releases in a comfortable atmosphere with Dolby Atmos sound technology. It’s a great place for film enthusiasts to enjoy their favorite movies.</br>
+                <br>Upcoming Shows: You can check the show timings and book tickets for movies like “Manjummel Boys” (Malayalam) and “Guardian” (Tamil) 1.</br>
+                <br>Booking: You can book your tickets for Deva Bala Sakthi Bala Cinemas A/C Dolby Atmos in Cumbum through Ticketnew or Paytm.</br>
+                <br>ANOTHER CINEMAS NEAR JSD MAHAL: Thambis Theatre A/C Dolby Atmos:</br>
+                <br>Location: Cumbum (specific address not provided).</br>
+                <br>Features: Thambis Theatre offers movie screenings with Dolby Atmos technology. It’s a great place to catch the latest films in a comfortable setting 2.</br>
+                <br>Both cinemas provide entertainment options for moviegoers in Cumbum. Whether you’re interested in regional films or international releases, these theaters offer a cinematic experience worth exploring.</br>
+
+            </font>
+        </p>
+        </body>
+        </html>
+```
+```c
+MAHAL.html
+
+<html>
+    <head>
+        <title>JSD MAHAL</title>
+    </head>
+    <body bgcolor="lightgreen">
+        <h1 align="center">
+            <font face="algerian" color="RED"><b>JSD MAHAL</b></font>
+        </h1>
+        <h3 align="center">
+            <font face="algerian" color="blue"><b>MAHAL-TOWN'S PRIDE</b></font>
+        </h3>
+        <hr size="3" color="red">
+        <p align="justify">
+            <font face="Georgia" sixe="5">
+            JSD Mahal in Cumbum, Tamil Nadu, is a limited-service property that offers a comfortable stay for travelers. Here are some details about JSD Mahal:
+            <br>Location: LF Main Road, Cumbum, Tamil Nadu, India.</br>
+            <br>Rooms: The property features 20 air-conditioned cozy rooms.</br>
+            <br>Amenities:</br>
+                    <br>*Complimentary breakfast</br>
+                    <br>*Free Wi-Fi access.</br>
+                    <br>*Doctor on call.</br>
+                    <br>*In-room dining facilities.</br>
+                    <br>*Multi-cuisine restaurant.</br>
+                    <br>*Mini fridge in every room.</br>
+                    <br>*Underground spacious car parking.</br>
+           <br> Whether you’re exploring the nearby attractions like Ramakkalmedu or Suruli Falls, JSD Mahal provides a convenient base for your stay in Cumbum. Enjoy the cozy rooms, delicious meals, and warm hospitality during your visit! 🏨🌟</br>
+
+            </font>
+        </p>
+        </body>
+        </html>
 ```
 
 ## OUTPUT
+![alt text](<Screenshot 2024-03-26 143342.png>)
+![alt text](<Screenshot 2024-03-26 143510.png>)
+![alt text](<Screenshot 2024-03-26 143617.png>)
+![alt text](<Screenshot 2024-03-26 143638.png>)
+![alt text](<Screenshot 2024-03-26 143830.png>)
+![alt text](<Screenshot 2024-03-26 143923.png>)
 
 
 
